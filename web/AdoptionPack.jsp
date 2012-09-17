@@ -1,0 +1,1 @@
+<marquee >Thank You, You Have Adopted Successfully!</marquee>

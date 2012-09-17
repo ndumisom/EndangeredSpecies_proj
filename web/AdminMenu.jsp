@@ -1,0 +1,9 @@
+              <a href="AdminiHome.jsp">Home</a> | 
+              <a href="AddUserForm.jsp">Add User</a> | 
+              <a href="AddSpeciesForm.jsp">Add Species</a> |
+               <a href="usersEditList.jsp">View Users</a> | 
+               <a href="SpeciesInformatonPage.jsp">View Sightings</a> | 
+               <a href="SpeciesCategoryPage.jsp">View Species</a> | 
+               <a href="AdoptionsListPage.jsp">View Adoptions</a> |   
+               <a href="ReportSighting.jsp">Add Sighting Report</a> | 
+               <a href="logout.jsp">Logout</a> |
